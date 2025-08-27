@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br/>
 <br/>
 
- ### 📊     
+ ### 📊 Estatísticas
 
 <p>
   <img 
