@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo João Vitor Nogueira Lopes, tenho 20 anos e sou do interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba
+Me chamo João Vitor Nogueira Lopes, tenho 20 anos e sou do interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, nos últimos tempos venho estudado Java como minha principal linguagem de programação e possuo conhecimento básico em C#
 
 ### 🤖 Linguagens e Técnologias
 <img 
@@ -15,8 +15,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 />
 <img 
     align="left" 
-    alt="Python"
-    title="Py" 
+    alt="C#"
+    title="C#" 
     width="30px"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
